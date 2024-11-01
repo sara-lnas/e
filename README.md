@@ -1,4 +1,4 @@
-# Nascimento machine's
+![image](https://github.com/user-attachments/assets/67a8ae88-385f-4c05-bdac-2caecb508cea)# Nascimento machine's
 ### Conversor de Bases Numéricas
 
 **O que é?**
@@ -13,7 +13,8 @@ Este projeto é um conversor de bases numéricas simples. Ele permite que você 
 * **Visualização do resultado:** Exibe o resultado da conversão de forma clara e organizada.
 
 ### Exemplo da interface:
-![image](https://github.com/user-attachments/assets/48c551fa-3472-43a6-920c-3ba27db5dca8)
+![image](https://github.com/user-attachments/assets/d8020de5-9f8f-4e49-93cf-f461a590386e)
+
 
 ## Tecnologias utilizadas:<br>
 ###
